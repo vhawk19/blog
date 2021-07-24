@@ -1,10 +1,11 @@
-# Precis
+# vhawk19
 
-Precis is a minimal note taking web-app built over Github Pages. This website itself is built using Precis. Look at the notes below to learn about it.
+Personal website. Rants about life, code and more. This website itself is built using Precis.
 
 ## Tags
 
-- [](./tags/)
+- [random](./tags/random)
 
 ## Notes
 
+- *2021-07-25* [halo](./halo)
